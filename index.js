@@ -1,6 +1,5 @@
 function scuberGreetingForFeet(someValue){
-  if (somevalue <= 400)
-  return 'This one is on me!'
+  
 }
 
 function ternaryCheckCity(){
