@@ -1,5 +1,4 @@
 function scuberGreetingForFeet(someValue){
-  let freeride 
   
 }
 
