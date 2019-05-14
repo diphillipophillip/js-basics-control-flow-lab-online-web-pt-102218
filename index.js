@@ -1,5 +1,6 @@
-function scuberGreetingForFeet(){
-  // Write your code here!
+function scuberGreetingForFeet(someValue){
+  let freeride 
+  
 }
 
 function ternaryCheckCity(){
