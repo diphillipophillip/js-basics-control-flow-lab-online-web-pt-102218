@@ -6,6 +6,7 @@ function scuberGreetingForFeet(someValue) {
 } else {
   return 'No can do.';
 }
+}
 
 
   
