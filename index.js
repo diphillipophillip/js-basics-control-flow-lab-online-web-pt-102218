@@ -10,7 +10,7 @@ function scuberGreetingForFeet(someValue) {
 
 
 function ternaryCheckCity(city){
-  city ? 
+   binding.pry 
 }
 
 function switchOnCharmFromTip(){
