@@ -7,6 +7,7 @@ function scuberGreetingForFeet(someValue) {
   return 'No can do.';
 }
 
+
   
 
 function ternaryCheckCity(){
