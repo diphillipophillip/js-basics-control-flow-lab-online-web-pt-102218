@@ -1,5 +1,5 @@
-function scuberGreetingForFeet(someValue){
- if (someValue <= 400)
+function scuberGreetingForFeet(someValue)
+ if (someValue <= 400) {
  'This one is on me!' 
 } else if (someValue > 2000) {
   'I will gladly take your thirty bucks.'
