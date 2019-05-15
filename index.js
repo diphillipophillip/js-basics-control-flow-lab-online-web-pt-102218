@@ -1,8 +1,8 @@
 function scuberGreetingForFeet(someValue) 
  if (someValue <= 400) {
- 'This one is on me!' 
+ return 'This one is on me!' 
 } else if (someValue > 2000) {
-  'I will gladly take your thirty bucks.'
+  return 'I will gladly take your thirty bucks.'
 }
 
 function ternaryCheckCity(){
